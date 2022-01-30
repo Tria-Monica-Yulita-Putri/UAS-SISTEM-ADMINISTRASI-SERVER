@@ -6,7 +6,7 @@
   sudo lxc-create -n lxc_php7_1 -t download -- --dist ubuntu --release focal --arch amd64 --force-cache --no-validate --server images.linuxcontainers.org
   ```
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\1.png)
+  ![1](https://user-images.githubusercontent.com/92940432/151702439-986f37bf-1d50-440d-b62e-7b6ae0ba514a.png)
 
   
 
@@ -18,7 +18,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\2.png)
+    ![2](https://user-images.githubusercontent.com/92940432/151702442-acdca06d-5016-4a82-b56a-aae49cf2280c.png)
 
     
 
@@ -28,7 +28,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\3.png)
+    ![3](https://user-images.githubusercontent.com/92940432/151702443-f89cbedf-34ec-4c17-8091-9621ceca8af9.png)
 
     
 
@@ -38,7 +38,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\5.png)
+    ![5](https://user-images.githubusercontent.com/92940432/151702445-390ba0dc-9ff3-44f6-b918-405aa24508e2.png)
 
     
 
@@ -48,7 +48,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\6.png)
+    ![6](https://user-images.githubusercontent.com/92940432/151702449-c515b4c5-db1b-46ce-96ac-3e4aec1e676f.png)
 
     
 
@@ -58,13 +58,13 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\7.png)
+    ![7](https://user-images.githubusercontent.com/92940432/151702452-b33f2873-1bc8-4a28-87f3-f3e91b8010fd.png)
 
     
 
   * Hasil CI
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\8.png)
+    ![8](https://user-images.githubusercontent.com/92940432/151702455-d0ecd8ea-f5a5-4a8c-8f0a-7bd3b602662d.png)
 
     
 
@@ -76,7 +76,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\9.png)
+  ![9](https://user-images.githubusercontent.com/92940432/151702457-fd4465c5-416a-4312-9b02-2353068fe718.png)
 
   
 
@@ -86,7 +86,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\10.png)
+  ![10](https://user-images.githubusercontent.com/92940432/151702458-a72fee23-4742-46f1-8de4-224905aca135.png)
 
   
 
@@ -96,7 +96,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\11.png)
+  ![11](https://user-images.githubusercontent.com/92940432/151702459-d8a321a8-98fd-49b9-aeae-9c85a663b4a3.png)
 
   
 
@@ -106,13 +106,13 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\12.png)
+  ![12](https://user-images.githubusercontent.com/92940432/151702461-d3a31ab2-c3c3-45a9-ab9b-21b0e27f7936.png)
 
   
 
   * Hasil Laravel 
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\13.png)
+    ![13](https://user-images.githubusercontent.com/92940432/151702463-8755099a-7f3e-493a-b382-f44ac0da8ad4.png)
 
   
 
@@ -124,7 +124,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\14.png)
+  ![14](https://user-images.githubusercontent.com/92940432/151702464-9c20ad78-8618-4610-b06f-ab07ee0817c4.png)
 
   
 
@@ -134,7 +134,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\15.png)
+  ![15](https://user-images.githubusercontent.com/92940432/151702465-df6687db-cba8-4da0-8d51-64db448efc94.png)
 
   
 
@@ -144,13 +144,13 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\16.png)
+  ![16](https://user-images.githubusercontent.com/92940432/151702466-ab78ebc5-8b1a-4d32-8cad-956de485060b.png)
 
   
 
   * Hasil Wordpress
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\17.png)
+    ![17](https://user-images.githubusercontent.com/92940432/151702467-15818414-844a-4806-bc59-45d8227bddaa.png)
 
     
 
@@ -162,7 +162,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\18.png)
+  ![18](https://user-images.githubusercontent.com/92940432/151702469-19c9ea5d-c986-4cb0-8d14-e2c17bb4dcb6.png)
 
   
 
@@ -172,7 +172,7 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\19.png)
+  ![19](https://user-images.githubusercontent.com/92940432/151702473-d3203b97-9a7f-492b-9dd0-99c5c6b172a9.png)
 
   
 
@@ -182,13 +182,13 @@
 
   
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\20.png)
+  ![20](https://user-images.githubusercontent.com/92940432/151702474-241c2bc0-3415-4927-9c91-c134121483f1.png)
 
   
 
   * Hasil Mariadb
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\21.png)
+    ![21](https://user-images.githubusercontent.com/92940432/151702476-36096af6-9197-4d1c-a82d-3099d8a58f96.png)
 
     
 
