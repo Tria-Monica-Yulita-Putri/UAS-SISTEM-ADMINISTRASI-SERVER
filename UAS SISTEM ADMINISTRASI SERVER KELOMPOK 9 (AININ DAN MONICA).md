@@ -6,7 +6,7 @@
   sudo lxc-create -n lxc_php7_1 -t download -- --dist ubuntu --release focal --arch amd64 --force-cache --no-validate --server images.linuxcontainers.org
   ```
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\1.png)
+  ![1](https://user-images.githubusercontent.com/92940432/151702439-986f37bf-1d50-440d-b62e-7b6ae0ba514a.png)
 
   
 
@@ -18,7 +18,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\2.png)
+    ![2](https://user-images.githubusercontent.com/92940432/151702442-acdca06d-5016-4a82-b56a-aae49cf2280c.png)
 
     
 
