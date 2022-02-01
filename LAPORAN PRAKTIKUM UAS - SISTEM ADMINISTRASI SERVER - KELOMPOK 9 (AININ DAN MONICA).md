@@ -30,7 +30,7 @@ sudo lxc-create -n lxc_php7_1 -t download -- --dist ubuntu --release focal --arc
 
 
 
-![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\1.png)
+![1](https://user-images.githubusercontent.com/92940432/152058964-1b40c8eb-fac4-459b-8c24-d708313a3678.png)
 
 
 
