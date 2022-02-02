@@ -30,13 +30,13 @@ sudo lxc-create -n [nama lxc] -t download -- --dist [nama os] --release [versi o
 
 
 
-![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\1.png)
+![1](https://user-images.githubusercontent.com/92940432/152102222-4cb8e6e8-be8d-4ab0-a9fd-21e937679ff5.png)
 
 
 
 Konfigurasikan file /etc/hosts pada vm, seperti gambar dibawah ini :
 
-![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\22.png)
+![22](https://user-images.githubusercontent.com/92940432/152102274-ed7b9825-00dc-4d57-9112-cf4c85ab8c8d.png)
 
 
 
@@ -44,15 +44,15 @@ Lalu, konfigurasikan file kelompok09.fpsas pada etc/nginx/sites-available dan ta
 
 Setelah seluruh konfigurasi ditambahkan, jalankan ansible dengan command ansible-playbook -i hosts [file yang akan diinstal]-k
 
-![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\23.png)
+![23](https://user-images.githubusercontent.com/92940432/152102353-61e32192-420b-40cd-85af-890e4f8b2330.png)
 
 
 
-![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\24.png)
+![24](https://user-images.githubusercontent.com/92940432/152102365-fca88b50-5d27-48eb-9d29-eb233ba24624.png)
 
 
 
-![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\25.png)
+![25](https://user-images.githubusercontent.com/92940432/152102525-6c368aff-3978-45ed-80eb-c8385bf65b13.png)
 
 
 
@@ -1769,25 +1769,25 @@ Langkah selanjutnya yaitu, kita bisa mengecek konfigurasi kita di browser dengan
 
 * Laravel (kelompok09.fpsas/)
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\26.png)
+  ![26](https://user-images.githubusercontent.com/92940432/152102550-d1cb0a71-c412-4b3b-b401-5b75dda51d33.png)
 
   
 
 * Codeigniter (kelompok09.fpsas/app)
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\27.png)
+  ![27](https://user-images.githubusercontent.com/92940432/152102575-629de50e-c487-43aa-81dd-32b3752b6e73.png)
 
   
 
 * yii (kelompok09.fpsas/product)
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\28.png)
+  ![28](https://user-images.githubusercontent.com/92940432/152102597-ee81a17d-ad89-4357-b268-21ec74dc1811.png)
 
   
 
 * phpmyadmin (kelompok09.fpsas/phpmyadmin)
 
-  ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\29.png)
+  ![29](https://user-images.githubusercontent.com/92940432/152102607-6d5b15ee-a08b-4cc8-8937-ccd83933934f.png)
 
   
 
@@ -1799,26 +1799,25 @@ Buka aplikasi jmeter untuk melihat hasil load balancer
 
 1. 50 users
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\30.png)
+   ![30](https://user-images.githubusercontent.com/92940432/152102615-60b87d07-4b14-475f-b668-6cb8cc3c95a5.png)
 
    
 
 2. 150 users
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\31.png)
+   ![31](https://user-images.githubusercontent.com/92940432/152102623-308f2eb4-0909-4f79-a182-29400bd523b2.png)
 
    
 
 3. 300 users 
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\32.png)
+   ![32](https://user-images.githubusercontent.com/92940432/152102635-63f68a51-9183-405e-b6c2-833a649c4578.png)
 
    
 
 4. 500 users
 
-   ![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\33.png)
-
+   ![33](https://user-images.githubusercontent.com/92940432/152102647-1b409a52-4a47-4201-a85d-9dc8db012a56.png)
    
 
 
@@ -1836,29 +1835,25 @@ Jawab :
 1. Rata-rata throughput
 
    1. - 50 user
-
-      - - news.kelompok09.fpas            : 24.8/s
+        - news.kelompok09.fpas            : 24.8/s
         - kelompok09.fpas/                     : 33.3/s
         - kelompok09.fpas/app              : 37.7/s
         - kelompok09.fpas/product       : 37.6/s
 
       - 150 user
-
-      - - kelompok09.fpas/                     : 35.1/s
+        - kelompok09.fpas/                     : 35.1/s
         - kelompok09/app                       : 37.4/s
         - kelompok09.fpas/product       : 37.4/s
         - news.kelompok09.fpas            : 24.4/s
 
       - 300 user
-
-      - - kelompok09.fpas/                      : 37.1/s
+        - kelompok09.fpas/                      : 37.1/s
         - kelompok09/app                        : 39.1/s
         - kelompok09.fpas/product       : 39.0/s
         - news.kelompok09.fpas            : 25.5/s
 
       - 500 user
-
-      - - kelompok09.fpas/                     : 47.4/s
+        - kelompok09.fpas/                     : 47.4/s
 
         - kelompok09/app                       : 50.2/s
 
@@ -1870,49 +1865,42 @@ Jawab :
 
 2. Rata - rata jumlah user yang dapat dilayani setiap detik
 
-   1. - 50 user
+    - 50 user
+          - kelompok09.fpas/      		       : 819
+          - kelompok09/app                       : 4
+          - kelompok09.fpas/product       : 17
+          - news.kelompok09.fpas            : 1022
 
-      - - kelompok09.fpas/      		       : 819
-        - kelompok09/app                       : 4
-        - kelompok09.fpas/product       : 17
-        - news.kelompok09.fpas            : 1022
-
-      - 150 user
-
-      - - kelompok09.fpas/                     : 2133
-        - kelompok09/app                       : 3
-        - kelompok09.fpas/product       : 20
-        - news.kelompok09.fpas            : 3064
+     - 150 user
+          - kelompok09.fpas/                     : 2133
+          - kelompok09/app                       : 3
+          - kelompok09.fpas/product       : 20
+          - news.kelompok09.fpas            : 3064
 
       - 300 user
-
-      - - kelompok09.fpas/                     : 4086
-        - kelompok09/app                       : 3
-        - kelompok09.fpas/product       : 22
-        - news.kelompok09.fpas            : 5849
+          - kelompok09.fpas/                     : 4086
+          - kelompok09/app                       : 3
+          - kelompok09.fpas/product       : 22
+          - news.kelompok09.fpas            : 5849
 
       - 500 user
-
-      - - kelompok09.fpas/                     : 4242
-        - kelompok09/app                       : 25
-        - kelompok09.fpas/product       : 54
-        - news.kelompok09.fpas            : 5763
+          - kelompok09.fpas/                     : 4242
+          - kelompok09/app                       : 25
+          - kelompok09.fpas/product       : 54
+          - news.kelompok09.fpas            : 5763
 
 
 
 3. Untuk meningkatkan jumlah user pada layanan web server dapat dilakukan dengan beberapa hal yaitu :
-
-4. - server
-
-1. - - meningkatkan atau mengupdate hardware dengan peforma tinggi
-     - menambah container baru pada load balancer
-     - mengupdate sistem operasi yang terbaru secara berkala
-     - Menghapus layanan yang tidak perlu
-     - optimasi database
-     - meningkatkan kualitas atau kecepatan jaringan internet
+  - server
+      - meningkatkan atau mengupdate hardware dengan peforma tinggi
+      - menambah container baru pada load balancer
+      - mengupdate sistem operasi yang terbaru secara berkala
+      - Menghapus layanan yang tidak perlu
+      - optimasi database
+      - meningkatkan kualitas atau kecepatan jaringan internet
 
    - website
-
-   - - menghapus plugin yang tidak perlu
-     - optimasi gambar
-     - menggunakan plugin caching
+      - menghapus plugin yang tidak perlu
+      - optimasi gambar
+      - menggunakan plugin caching
