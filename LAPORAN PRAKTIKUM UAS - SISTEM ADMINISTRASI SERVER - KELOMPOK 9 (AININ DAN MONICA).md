@@ -64,9 +64,9 @@ Setelah seluruh konfigurasi ditambahkan, jalankan ansible dengan command ansible
     [laravel]
     #laravel ansible_host=lxc_laravel.dev ansible_ssh_user=root ansible_become_pass=1234
     lxc_php7_1 ansible_host=lxc_php7_1L.dev ansible_ssh_user=root ansible_become_pass=1234
-    #lxc_php7_2 ansible_host=lxc_php7_2L.dev ansible_ssh_user=root ansible_become_pass=1234
-    #lxc_php7_4 ansible_host=lxc_php7_4L.dev ansible_ssh_user=root ansible_become_pass=1234
-    #lxc_php7_6 ansible_host=lxc_php7_6L.dev ansible_ssh_user=root ansible_become_pass=1234
+    lxc_php7_2 ansible_host=lxc_php7_2L.dev ansible_ssh_user=root ansible_become_pass=1234
+    lxc_php7_4 ansible_host=lxc_php7_4L.dev ansible_ssh_user=root ansible_become_pass=1234
+    lxc_php7_6 ansible_host=lxc_php7_6L.dev ansible_ssh_user=root ansible_become_pass=1234
     
     [codeigniter]
     #codeigniter ansible_host=lxc_codeigniter.dev ansible_ssh_user=root ansible_become_pass=1234
@@ -1834,42 +1834,39 @@ Jawab :
 
 1. Rata-rata throughput
 
-   1. - 50 user
-        - news.kelompok09.fpas            : 24.8/s
-        - kelompok09.fpas/                     : 33.3/s
-        - kelompok09.fpas/app              : 37.7/s
-        - kelompok09.fpas/product       : 37.6/s
+      - 50 user
+          - news.kelompok09.fpas            : 24.8/s
+          - kelompok09.fpas/                     : 33.3/s
+          - kelompok09.fpas/app              : 37.7/s
+          - kelompok09.fpas/product       : 37.6/s
 
       - 150 user
-        - kelompok09.fpas/                     : 35.1/s
-        - kelompok09/app                       : 37.4/s
-        - kelompok09.fpas/product       : 37.4/s
-        - news.kelompok09.fpas            : 24.4/s
+          - kelompok09.fpas/                     : 35.1/s
+          - kelompok09/app                       : 37.4/s
+          - kelompok09.fpas/product       : 37.4/s
+          - news.kelompok09.fpas            : 24.4/s
 
       - 300 user
-        - kelompok09.fpas/                      : 37.1/s
-        - kelompok09/app                        : 39.1/s
-        - kelompok09.fpas/product       : 39.0/s
-        - news.kelompok09.fpas            : 25.5/s
+          - kelompok09.fpas/                      : 37.1/s
+          - kelompok09/app                        : 39.1/s
+          - kelompok09.fpas/product       : 39.0/s
+          - news.kelompok09.fpas            : 25.5/s
 
       - 500 user
-        - kelompok09.fpas/                     : 47.4/s
-
-        - kelompok09/app                       : 50.2/s
-
-        - kelompok09.fpas/product       : 49.0/s
-
-        - news.kelompok09.fpas            : 32.4/s
+          - kelompok09.fpas/                     : 47.4/s
+          - kelompok09/app                       : 50.2/s
+          - kelompok09.fpas/product       : 49.0/s
+          - news.kelompok09.fpas            : 32.4/s
 
           
 
 2. Rata - rata jumlah user yang dapat dilayani setiap detik
 
     - 50 user
-          - kelompok09.fpas/      		       : 819
-          - kelompok09/app                       : 4
-          - kelompok09.fpas/product       : 17
-          - news.kelompok09.fpas            : 1022
+        - kelompok09.fpas/      		       : 819
+        - kelompok09/app                       : 4
+        - kelompok09.fpas/product       : 17
+        - news.kelompok09.fpas            : 1022
 
      - 150 user
           - kelompok09.fpas/                     : 2133
