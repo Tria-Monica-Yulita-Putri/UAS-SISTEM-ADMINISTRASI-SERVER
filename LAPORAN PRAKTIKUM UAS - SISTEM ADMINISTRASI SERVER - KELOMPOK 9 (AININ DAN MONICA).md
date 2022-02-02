@@ -42,7 +42,6 @@ Konfigurasikan file /etc/hosts pada vm, seperti gambar dibawah ini :
 
 Lalu, konfigurasikan file kelompok09.fpsas pada etc/nginx/sites-available dan tambahkan upstream. Seperti gambar dibawah ini :
 
-Setelah seluruh konfigurasi ditambahkan, jalankan ansible dengan command ansible-playbook -i hosts [file yang akan diinstal]-k
 
 ![23](https://user-images.githubusercontent.com/92940432/152102353-61e32192-420b-40cd-85af-890e4f8b2330.png)
 
@@ -1764,7 +1763,7 @@ Langkah selanjutnya yaitu buat sebuah Wordpress directory pada roles directory u
       ```
 
       
-
+Setelah seluruh konfigurasi ditambahkan, jalankan ansible dengan command ansible-playbook -i hosts [file yang akan diinstal]-k
 Langkah selanjutnya yaitu, kita bisa mengecek konfigurasi kita di browser dengan mengetikkan nama domain kita yaitu (http://kelompok09.fpsas)
 
 * Laravel (kelompok09.fpsas/)
