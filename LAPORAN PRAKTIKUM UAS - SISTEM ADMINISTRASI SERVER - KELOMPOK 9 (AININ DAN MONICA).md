@@ -1764,6 +1764,7 @@ Langkah selanjutnya yaitu buat sebuah Wordpress directory pada roles directory u
 
       
 Setelah seluruh konfigurasi ditambahkan, jalankan ansible dengan command ansible-playbook -i hosts [file yang akan diinstal]-k
+
 Langkah selanjutnya yaitu, kita bisa mengecek konfigurasi kita di browser dengan mengetikkan nama domain kita yaitu (http://kelompok09.fpsas)
 
 * Laravel (kelompok09.fpsas/)
