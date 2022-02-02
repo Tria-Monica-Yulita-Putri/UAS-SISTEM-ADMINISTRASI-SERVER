@@ -30,7 +30,7 @@ sudo lxc-create -n [nama lxc] -t download -- --dist [nama os] --release [versi o
 
 
 
-![](C:\Users\TRIA YULITA\OneDrive\Dokumen\ITTS\SEMESTER 5\Sistem Administrasi Server\UAS SAS FOTO\1.png)
+![1](https://user-images.githubusercontent.com/92940432/152095204-1aabe7e6-5d81-452b-94cb-c236b118ded8.png)
 
 
 
