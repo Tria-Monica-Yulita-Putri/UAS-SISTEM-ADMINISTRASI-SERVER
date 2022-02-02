@@ -1825,7 +1825,7 @@ Buka aplikasi jmeter untuk melihat hasil load balancer
 ### ANALISIS
 
 1. Berapa nilai rata - rata througput untuk setiap website yang dihasilkan dari load testing?
-2.  Berapa nilai rata - rata jumlah user yang dapat dilayani setiap detik untuk setiap website yang dihasilkan dari load testing?
+2. Berapa nilai rata - rata jumlah user yang dapat dilayani setiap detik untuk setiap website yang dihasilkan dari load testing?
 3. Bagaimana cara mengurangi nilai througput dan meningkatkan nilai jumlah user yang dapat dilayani setiap detik untuk skema yang telah dibuat ? Sebutkan faktor faktor yang mempengaruhi !
 
 
@@ -1888,16 +1888,8 @@ Jawab :
 
 
 
-3. Untuk meningkatkan jumlah user pada layanan web server dapat dilakukan dengan beberapa hal yaitu :
-  - server
-      - meningkatkan atau mengupdate hardware dengan peforma tinggi
-      - menambah container baru pada load balancer
-      - mengupdate sistem operasi yang terbaru secara berkala
-      - Menghapus layanan yang tidak perlu
-      - optimasi database
-      - meningkatkan kualitas atau kecepatan jaringan internet
-
-   - website
-      - menghapus plugin yang tidak perlu
-      - optimasi gambar
-      - menggunakan plugin caching
+3. Cara mengurangi nilai througput dan meningkatkan nilai jumlah user yang dapat dilayani setiap detik untuk skema yang telah dibuat serta faktor-faktor yang mempengaruhinya:
+    - Optimasi database
+    - Downgrade OS
+    - Mengoptimalkan kinerja framework yang digunakan
+    
